@@ -1,0 +1,68 @@
+Dynamic processors logs:
+
+"bundles" took 3162 ms. to process
+"processors-registry" took 6428 ms. to process
+"ts.compiler" took 17500 ms. to process
+"ts.compiler" took 9234 ms. to process
+"ts.compiler" took 7578 ms. to process
+[31mDynamic processor "[1mbundler.bundle.packager.code.js[22m: application//1351423324//home//widget//node//esm//." is taking more than expected.[39m
+[1m	Waiting for:[22m
+		* sass.code.js: not processed
+		* ts.code.js: not processed
+
+[31mDynamic processor "[1mbundler.bundle.packager.code.js[22m: application//1351423324//home//widget//node//cjs//." is taking more than expected.[39m
+[1m	Waiting for:[22m
+		* sass.code.js: not processed
+		* ts.code.js: not processed
+
+[31mDynamic processor "[1msass.code.js[22m: application//1351423324//home//widget//sass//node//esm//.///node//esm" is taking more than expected.[39m
+[1m	Waiting for:[22m
+		* sass.compiler: not initialised
+
+[31mDynamic processor "[1mts.code.js[22m: application//1351423324//home//widget//ts//node//esm//.///node//esm" is taking more than expected.[39m
+[1m	Waiting for:[22m
+		* ts.compiler: not initialised
+
+[31mDynamic processor "[1msass.code.js[22m: application//1351423324//home//widget//sass//node//cjs//.///node//cjs" is taking more than expected.[39m
+[1m	Waiting for:[22m
+		* sass.compiler: not initialised
+
+[31mDynamic processor "[1mts.code.js[22m: application//1351423324//home//widget//ts//node//cjs//.///node//cjs" is taking more than expected.[39m
+[1m	Waiting for:[22m
+		* ts.compiler: not initialised
+
+"ts.compiler" took 6071 ms. to process
+"ts.compiler" took 7146 ms. to process
+"ts.compiler" took 7280 ms. to process
+"ts.compiler" took 7812 ms. to process
+"ts.compiler" took 6522 ms. to process
+"ts.compiler" took 5832 ms. to process
+[31mDynamic processor "[1mbundler.bundle.packager.code.js[22m: application//1351423324//layouts/main//widget//node//cjs//." is taking more than expected.[39m
+[1m	Waiting for:[22m
+		* sass.code.js: not processed
+		* ts.code.js: not processed
+
+[31mDynamic processor "[1msass.code.js[22m: application//1351423324//layouts/main//widget//sass//node//cjs//.///node//cjs" is taking more than expected.[39m
+[1m	Waiting for:[22m
+		* sass.compiler: not initialised
+
+[31mDynamic processor "[1mts.code.js[22m: application//1351423324//layouts/main//widget//ts//node//cjs//.///node//cjs" is taking more than expected.[39m
+[1m	Waiting for:[22m
+		* ts.compiler: not initialised
+
+[31mDynamic processor "[1mbundler.bundle.packager.code.js[22m: application//1351423324//layouts/main//widget//node//esm//." is taking more than expected.[39m
+[1m	Waiting for:[22m
+		* sass.code.js: not processed
+		* ts.code.js: not processed
+
+[31mDynamic processor "[1msass.code.js[22m: application//1351423324//layouts/main//widget//sass//node//esm//.///node//esm" is taking more than expected.[39m
+[1m	Waiting for:[22m
+		* sass.compiler: not initialised
+
+[31mDynamic processor "[1mts.code.js[22m: application//1351423324//layouts/main//widget//ts//node//esm//.///node//esm" is taking more than expected.[39m
+[1m	Waiting for:[22m
+		* ts.compiler: not initialised
+
+"ts.compiler" took 6335 ms. to process
+"ts.compiler" took 6897 ms. to process
+"ts.compiler" took 5911 ms. to process

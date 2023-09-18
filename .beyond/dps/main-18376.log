@@ -1,0 +1,17 @@
+Dynamic processors logs:
+
+"processors-registry" took 6255 ms. to process
+[31mDynamic processor "[1mbundler.bundle.packager.code.js[22m: application//1351423324//home//widget//1334341767//." is taking more than expected.[39m
+[1m	Waiting for:[22m
+		* bundler.bundle.packager.hash: not processed
+
+[31mDynamic processor "[1mapplication.package_json.dependencies[22m" is taking more than expected.[39m
+[1m	Waiting for:[22m
+		* application.package_json: not processed
+
+[31mDynamic processor "[1mbundler.bundle.packager.hash[22m" is taking more than expected.[39m
+[1m	Waiting for:[22m
+		* bundler.processors.hashes.inputs: not processed
+		* application.package_json.dependencies: not processed
+
+"application.package_json" took 6543 ms. to process
